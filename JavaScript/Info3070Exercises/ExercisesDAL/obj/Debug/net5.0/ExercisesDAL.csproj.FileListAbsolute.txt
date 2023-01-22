@@ -1,0 +1,15 @@
+C:\$F2021,INFO3070\Info3070Exercises\ExercisesDAL\bin\Debug\net5.0\ExercisesDAL.deps.json
+C:\$F2021,INFO3070\Info3070Exercises\ExercisesDAL\bin\Debug\net5.0\ExercisesDAL.runtimeconfig.json
+C:\$F2021,INFO3070\Info3070Exercises\ExercisesDAL\bin\Debug\net5.0\ExercisesDAL.runtimeconfig.dev.json
+C:\$F2021,INFO3070\Info3070Exercises\ExercisesDAL\bin\Debug\net5.0\ExercisesDAL.dll
+C:\$F2021,INFO3070\Info3070Exercises\ExercisesDAL\bin\Debug\net5.0\ref\ExercisesDAL.dll
+C:\$F2021,INFO3070\Info3070Exercises\ExercisesDAL\bin\Debug\net5.0\ExercisesDAL.pdb
+C:\$F2021,INFO3070\Info3070Exercises\ExercisesDAL\obj\Debug\net5.0\ExercisesDAL.csproj.AssemblyReference.cache
+C:\$F2021,INFO3070\Info3070Exercises\ExercisesDAL\obj\Debug\net5.0\ExercisesDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\$F2021,INFO3070\Info3070Exercises\ExercisesDAL\obj\Debug\net5.0\ExercisesDAL.AssemblyInfoInputs.cache
+C:\$F2021,INFO3070\Info3070Exercises\ExercisesDAL\obj\Debug\net5.0\ExercisesDAL.AssemblyInfo.cs
+C:\$F2021,INFO3070\Info3070Exercises\ExercisesDAL\obj\Debug\net5.0\ExercisesDAL.csproj.CoreCompileInputs.cache
+C:\$F2021,INFO3070\Info3070Exercises\ExercisesDAL\obj\Debug\net5.0\ExercisesDAL.dll
+C:\$F2021,INFO3070\Info3070Exercises\ExercisesDAL\obj\Debug\net5.0\ref\ExercisesDAL.dll
+C:\$F2021,INFO3070\Info3070Exercises\ExercisesDAL\obj\Debug\net5.0\ExercisesDAL.pdb
+C:\$F2021,INFO3070\Info3070Exercises\ExercisesDAL\obj\Debug\net5.0\ExercisesDAL.genruntimeconfig.cache

@@ -1,0 +1,45 @@
+C:\Users\jinse\OneDrive\바탕 화면\Fanshawe\$F2021,INFO3070\Info3070Exercises\ExercisesViewModels\bin\Debug\net5.0\ExercisesViewModels.deps.json
+C:\Users\jinse\OneDrive\바탕 화면\Fanshawe\$F2021,INFO3070\Info3070Exercises\ExercisesViewModels\bin\Debug\net5.0\ExercisesViewModels.dll
+C:\Users\jinse\OneDrive\바탕 화면\Fanshawe\$F2021,INFO3070\Info3070Exercises\ExercisesViewModels\bin\Debug\net5.0\ref\ExercisesViewModels.dll
+C:\Users\jinse\OneDrive\바탕 화면\Fanshawe\$F2021,INFO3070\Info3070Exercises\ExercisesViewModels\bin\Debug\net5.0\ExercisesViewModels.pdb
+C:\Users\jinse\OneDrive\바탕 화면\Fanshawe\$F2021,INFO3070\Info3070Exercises\ExercisesViewModels\bin\Debug\net5.0\ExercisesDAL.dll
+C:\Users\jinse\OneDrive\바탕 화면\Fanshawe\$F2021,INFO3070\Info3070Exercises\ExercisesViewModels\bin\Debug\net5.0\ExercisesDAL.pdb
+C:\Users\jinse\OneDrive\바탕 화면\Fanshawe\$F2021,INFO3070\Info3070Exercises\ExercisesViewModels\obj\Debug\net5.0\ExercisesViewModels.csproj.AssemblyReference.cache
+C:\Users\jinse\OneDrive\바탕 화면\Fanshawe\$F2021,INFO3070\Info3070Exercises\ExercisesViewModels\obj\Debug\net5.0\ExercisesViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jinse\OneDrive\바탕 화면\Fanshawe\$F2021,INFO3070\Info3070Exercises\ExercisesViewModels\obj\Debug\net5.0\ExercisesViewModels.AssemblyInfoInputs.cache
+C:\Users\jinse\OneDrive\바탕 화면\Fanshawe\$F2021,INFO3070\Info3070Exercises\ExercisesViewModels\obj\Debug\net5.0\ExercisesViewModels.AssemblyInfo.cs
+C:\Users\jinse\OneDrive\바탕 화면\Fanshawe\$F2021,INFO3070\Info3070Exercises\ExercisesViewModels\obj\Debug\net5.0\ExercisesViewModels.csproj.CoreCompileInputs.cache
+C:\Users\jinse\OneDrive\바탕 화면\Fanshawe\$F2021,INFO3070\Info3070Exercises\ExercisesViewModels\obj\Debug\net5.0\ExercisesViewModels.csproj.CopyComplete
+C:\Users\jinse\OneDrive\바탕 화면\Fanshawe\$F2021,INFO3070\Info3070Exercises\ExercisesViewModels\obj\Debug\net5.0\ExercisesViewModels.dll
+C:\Users\jinse\OneDrive\바탕 화면\Fanshawe\$F2021,INFO3070\Info3070Exercises\ExercisesViewModels\obj\Debug\net5.0\ref\ExercisesViewModels.dll
+C:\Users\jinse\OneDrive\바탕 화면\Fanshawe\$F2021,INFO3070\Info3070Exercises\ExercisesViewModels\obj\Debug\net5.0\ExercisesViewModels.pdb
+C:\$F2021,INFO3070\Info3070Exercises\ExercisesViewModels\bin\Debug\net5.0\ExercisesViewModels.deps.json
+C:\$F2021,INFO3070\Info3070Exercises\ExercisesViewModels\bin\Debug\net5.0\ExercisesViewModels.dll
+C:\$F2021,INFO3070\Info3070Exercises\ExercisesViewModels\bin\Debug\net5.0\ref\ExercisesViewModels.dll
+C:\$F2021,INFO3070\Info3070Exercises\ExercisesViewModels\bin\Debug\net5.0\ExercisesViewModels.pdb
+C:\$F2021,INFO3070\Info3070Exercises\ExercisesViewModels\bin\Debug\net5.0\ExercisesDAL.dll
+C:\$F2021,INFO3070\Info3070Exercises\ExercisesViewModels\bin\Debug\net5.0\ExercisesDAL.pdb
+C:\$F2021,INFO3070\Info3070Exercises\ExercisesViewModels\obj\Debug\net5.0\ExercisesViewModels.csproj.AssemblyReference.cache
+C:\$F2021,INFO3070\Info3070Exercises\ExercisesViewModels\obj\Debug\net5.0\ExercisesViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\$F2021,INFO3070\Info3070Exercises\ExercisesViewModels\obj\Debug\net5.0\ExercisesViewModels.AssemblyInfoInputs.cache
+C:\$F2021,INFO3070\Info3070Exercises\ExercisesViewModels\obj\Debug\net5.0\ExercisesViewModels.AssemblyInfo.cs
+C:\$F2021,INFO3070\Info3070Exercises\ExercisesViewModels\obj\Debug\net5.0\ExercisesViewModels.csproj.CoreCompileInputs.cache
+C:\$F2021,INFO3070\Info3070Exercises\ExercisesViewModels\obj\Debug\net5.0\ExercisesViewModels.csproj.CopyComplete
+C:\$F2021,INFO3070\Info3070Exercises\ExercisesViewModels\obj\Debug\net5.0\ExercisesViewModels.dll
+C:\$F2021,INFO3070\Info3070Exercises\ExercisesViewModels\obj\Debug\net5.0\ref\ExercisesViewModels.dll
+C:\$F2021,INFO3070\Info3070Exercises\ExercisesViewModels\obj\Debug\net5.0\ExercisesViewModels.pdb
+C:\$F2021,INFO3070\Info3070ExercisesOrg\ExercisesViewModels\bin\Debug\net5.0\ExercisesViewModels.deps.json
+C:\$F2021,INFO3070\Info3070ExercisesOrg\ExercisesViewModels\bin\Debug\net5.0\ExercisesViewModels.dll
+C:\$F2021,INFO3070\Info3070ExercisesOrg\ExercisesViewModels\bin\Debug\net5.0\ref\ExercisesViewModels.dll
+C:\$F2021,INFO3070\Info3070ExercisesOrg\ExercisesViewModels\bin\Debug\net5.0\ExercisesViewModels.pdb
+C:\$F2021,INFO3070\Info3070ExercisesOrg\ExercisesViewModels\bin\Debug\net5.0\ExercisesDAL.dll
+C:\$F2021,INFO3070\Info3070ExercisesOrg\ExercisesViewModels\bin\Debug\net5.0\ExercisesDAL.pdb
+C:\$F2021,INFO3070\Info3070ExercisesOrg\ExercisesViewModels\obj\Debug\net5.0\ExercisesViewModels.csproj.AssemblyReference.cache
+C:\$F2021,INFO3070\Info3070ExercisesOrg\ExercisesViewModels\obj\Debug\net5.0\ExercisesViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\$F2021,INFO3070\Info3070ExercisesOrg\ExercisesViewModels\obj\Debug\net5.0\ExercisesViewModels.AssemblyInfoInputs.cache
+C:\$F2021,INFO3070\Info3070ExercisesOrg\ExercisesViewModels\obj\Debug\net5.0\ExercisesViewModels.AssemblyInfo.cs
+C:\$F2021,INFO3070\Info3070ExercisesOrg\ExercisesViewModels\obj\Debug\net5.0\ExercisesViewModels.csproj.CoreCompileInputs.cache
+C:\$F2021,INFO3070\Info3070ExercisesOrg\ExercisesViewModels\obj\Debug\net5.0\ExercisesViewModels.csproj.CopyComplete
+C:\$F2021,INFO3070\Info3070ExercisesOrg\ExercisesViewModels\obj\Debug\net5.0\ExercisesViewModels.dll
+C:\$F2021,INFO3070\Info3070ExercisesOrg\ExercisesViewModels\obj\Debug\net5.0\ref\ExercisesViewModels.dll
+C:\$F2021,INFO3070\Info3070ExercisesOrg\ExercisesViewModels\obj\Debug\net5.0\ExercisesViewModels.pdb

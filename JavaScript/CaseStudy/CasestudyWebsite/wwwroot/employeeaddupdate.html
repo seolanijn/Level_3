@@ -1,0 +1,94 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Case 1 - Employee</title>
+    <link href="lib/css/bootstrap.min.css" rel="stylesheet" />
+    <link rel="icon" href="data:;base64,iVBORw0KGgo=" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+    <nav class="navbar navbar-expand-md navbar-dark bg-dark">
+        <a class="navbar-brand mx-3" href="#">Case #1</a>
+
+        <ul class="navbar-nav mx-3">
+            <li class="nav-item">
+                <a class="nav-link" href="/home.html">Home</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link active" href="/employee.html">Employee</a>
+            </li>
+        </ul>
+    </nav>
+
+    <div class="container text-center" style="top:50px; position:relative;">
+        <img src="img/helpdesk.png" width="400" />
+        <h1>Employees</h1>
+        <h3>v1.0</h3>
+       <!-- <div class="justify-content-center align-items-center row mt-5 ml-1">
+            <div class="list-group col-10" id="employeeList" style="height:45vh;"></div>
+        </div>-->
+        <!--<div class="card-body">
+            <button type="button" class="btn btn-outline-secondary m-2" data-bs-toggle="modal" data-bs-target="#casestudyModal">
+                lookup employee
+            </button>
+        </div>-->
+    </div>
+    <div class="justify-content-center align-items-center row mt-1">
+        <div class="col-12 text-center p-3"><h2></h2></div>
+        <div class="justify-content-center align-items-center row m-2 ml-3" style="overflow:hidden;overflow-y:scroll;height:70vh;">
+            <div class="list-group col-10" id="employeeList"></div>
+        </div>
+    </div>
+    <footer class="card-footer" style=" bottom:0vh; width:100%;"> <div>&copy; 2021 - Info3070</div></footer>
+
+    <div class="modal fade" id="myModal" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h2 class="modal-title" id="myModalLabel"></h2>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <div class="mx-4 my-4">
+                        <div class="card">
+                            <div class="card-header text-center">
+                                Employee Information
+                            </div>
+                            <div class="card-body">
+                                <div class="row">
+                                    <div class="col-4">Title:</div>
+                                    <div class="col-8"><input type="text" placeholder="enter title" id="TextBoxTitle" class="form-control" /></div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-4">First:</div>
+                                    <div class="col-8"><input type="text" placeholder="enter first name" id="TextBoxFirstname" class="form-control" /></div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-4">Surname:</div>
+                                    <div class="col-8"><input type="text" placeholder="enter last name" id="TextBoxLastname" class="form-control" /></div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-4">Phone#:</div>
+                                    <div class="col-8"><input type="text" placeholder="enter phone#" id="TextBoxPhone" class="form-control" /></div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-4">Email:</div>
+                                    <div class="col-8"><input type="text" placeholder="enter email address" id="TextBoxEmail" class="form-control" /></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card-footer text-center">
+                        <input type="button" class="btn btn-secondary" value="update" id="actionbutton" />
+                        <div id="modalstatus" class="text-left mt-3 mb-2"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="lib/js/jquery.min.js"></script>
+    <script src="lib/js/bootstrap.min.js"></script>
+    <script src="js/employeeaddupdate.js"></script>
+</body>
+</html>
